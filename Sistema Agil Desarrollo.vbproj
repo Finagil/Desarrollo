@@ -31,14 +31,15 @@
     <UpgradeBackupLocation>
     </UpgradeBackupLocation>
     <IsWebBootstrapper>false</IsWebBootstrapper>
-    <ManifestCertificateThumbprint>A290924C3043FE76F65FAE16E23274868D7E2232</ManifestCertificateThumbprint>
-    <ManifestKeyFile>Sistema Agil Desarrollo_2_TemporaryKey.pfx</ManifestKeyFile>
+    <ManifestCertificateThumbprint>8E6B98C817CB8D5728BBAA0259485957868F51A0</ManifestCertificateThumbprint>
+    <ManifestKeyFile>Sistema Agil Desarrollo_TemporaryKey.pfx</ManifestKeyFile>
     <GenerateManifests>true</GenerateManifests>
     <SignManifests>true</SignManifests>
     <SignAssembly>false</SignAssembly>
     <TargetZone>LocalIntranet</TargetZone>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <OldToolsVersion>2.0</OldToolsVersion>
+    <TargetFrameworkProfile />
     <PublishUrl>\\Server-raid\D\Agil1\</PublishUrl>
     <Install>false</Install>
     <InstallFrom>Unc</InstallFrom>
@@ -56,7 +57,6 @@
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <BootstrapperEnabled>true</BootstrapperEnabled>
-    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <OutputPath>bin\</OutputPath>
@@ -2154,11 +2154,7 @@
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.vb</LastGenOutput>
     </None>
-    <None Include="Sistema Agil Desarrollo_1_TemporaryKey.pfx" />
-    <None Include="Sistema Agil Desarrollo_2_TemporaryKey.pfx" />
-    <None Include="Sistema Agil Desarrollo_3_TemporaryKey.pfx" />
     <None Include="Sistema Agil Desarrollo_TemporaryKey.pfx" />
-    <None Include="Sistema Agil_TemporaryKey.pfx" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
   <PropertyGroup>
