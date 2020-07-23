@@ -31,7 +31,7 @@
     <UpgradeBackupLocation>
     </UpgradeBackupLocation>
     <IsWebBootstrapper>false</IsWebBootstrapper>
-    <ManifestCertificateThumbprint>8E6B98C817CB8D5728BBAA0259485957868F51A0</ManifestCertificateThumbprint>
+    <ManifestCertificateThumbprint>C9F2ABFD2D446AE7834E10DAEF962026FDEE8412</ManifestCertificateThumbprint>
     <ManifestKeyFile>Sistema Agil Desarrollo_TemporaryKey.pfx</ManifestKeyFile>
     <GenerateManifests>true</GenerateManifests>
     <SignManifests>true</SignManifests>
